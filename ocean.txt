@@ -1,4 +1,4 @@
 sky
 master master
-asdfasdfasd master
+asdfasdfasd
 2222222
