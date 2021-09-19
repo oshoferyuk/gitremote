@@ -1,4 +1,3 @@
 test master
-dev original 222
-local local
+origin development test 222
 bbbbbb bbb
